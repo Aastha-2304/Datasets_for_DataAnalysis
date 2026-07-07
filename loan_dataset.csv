@@ -1,0 +1,401 @@
+Age,Income,Education_Level,Employment_Type,Credit_Score,Loan_Amount,Loan_Status
+56.0,119157.0,High School,Unemployed,343.0,35523,Approved
+46.0,113848.0,High School,Self-Employed,,34052,Rejected
+32.0,72921.0,Bachelor,Unemployed,629.0,39414,Rejected
+60.0,69726.0,High School,Salaried,796.0,37781,Rejected
+25.0,70300.0,Bachelor,Self-Employed,311.0,9599,Approved
+38.0,42677.0,,Salaried,617.0,40046,Approved
+56.0,75609.0,Master,Unemployed,,40923,Rejected
+36.0,116825.0,High School,Unemployed,638.0,46089,Rejected
+40.0,76661.0,High School,Unemployed,380.0,8814,Rejected
+28.0,51024.0,PhD,Salaried,784.0,40984,Rejected
+28.0,90313.0,Bachelor,Salaried,673.0,31616,Rejected
+41.0,73006.0,High School,Salaried,,7113,Rejected
+53.0,,High School,Salaried,836.0,48006,Approved
+57.0,,PhD,Unemployed,765.0,18760,Rejected
+41.0,88027.0,,Unemployed,388.0,26927,Approved
+20.0,112772.0,Bachelor,Self-Employed,567.0,25939,Rejected
+39.0,100135.0,PhD,Self-Employed,788.0,37419,Rejected
+,39508.0,Master,Salaried,837.0,17588,Approved
+41.0,23051.0,PhD,Unemployed,346.0,41142,Approved
+61.0,68747.0,Master,Unemployed,,44198,Approved
+47.0,107142.0,Bachelor,Unemployed,315.0,49738,Approved
+55.0,,Bachelor,Self-Employed,700.0,38397,Rejected
+19.0,74021.0,Bachelor,Self-Employed,385.0,21653,Approved
+38.0,86412.0,Bachelor,Unemployed,549.0,15831,Rejected
+50.0,78335.0,Bachelor,Unemployed,690.0,10724,Approved
+29.0,76179.0,,Unemployed,634.0,16083,Rejected
+39.0,52093.0,Master,Self-Employed,818.0,24816,Rejected
+61.0,89678.0,Bachelor,Unemployed,436.0,47240,Rejected
+42.0,100738.0,PhD,Unemployed,797.0,11276,Rejected
+44.0,59734.0,High School,Salaried,776.0,43663,Rejected
+59.0,92615.0,Bachelor,Salaried,522.0,18994,Rejected
+45.0,93523.0,PhD,Self-Employed,671.0,28499,Approved
+33.0,114476.0,High School,Unemployed,701.0,28040,Rejected
+,37019.0,Bachelor,Unemployed,742.0,48320,Approved
+64.0,103613.0,Bachelor,Salaried,789.0,21959,Approved
+61.0,111794.0,Master,Self-Employed,572.0,11099,Rejected
+20.0,106672.0,High School,Salaried,,47267,Approved
+54.0,93847.0,High School,Salaried,458.0,24576,Rejected
+24.0,102750.0,PhD,Salaried,451.0,40946,Approved
+38.0,99634.0,,Salaried,487.0,11116,Rejected
+26.0,48251.0,Master,Unemployed,397.0,20563,Approved
+56.0,,Master,Unemployed,430.0,31788,Rejected
+35.0,110852.0,,Salaried,470.0,31928,Rejected
+21.0,52217.0,High School,Self-Employed,482.0,41336,Rejected
+42.0,28308.0,High School,Self-Employed,663.0,14847,Rejected
+31.0,25949.0,Bachelor,Self-Employed,338.0,31155,Approved
+26.0,71990.0,Bachelor,Self-Employed,826.0,19135,Rejected
+43.0,21150.0,Master,Salaried,796.0,22774,Approved
+19.0,109480.0,Master,Unemployed,815.0,6742,Approved
+37.0,94740.0,Master,Self-Employed,648.0,23309,Approved
+45.0,86617.0,Bachelor,Salaried,696.0,5619,Rejected
+64.0,,PhD,Self-Employed,460.0,22658,Approved
+24.0,36896.0,PhD,Self-Employed,,39707,Approved
+61.0,66175.0,Bachelor,Salaried,792.0,25337,Approved
+25.0,27805.0,Bachelor,Unemployed,725.0,21001,Rejected
+,25237.0,Bachelor,Unemployed,407.0,5968,Rejected
+52.0,40056.0,Bachelor,Salaried,749.0,30892,Approved
+31.0,65543.0,,Unemployed,610.0,30619,Rejected
+34.0,76556.0,Bachelor,Salaried,469.0,5281,Rejected
+53.0,23343.0,Master,Salaried,,32420,Approved
+57.0,33500.0,Master,Salaried,713.0,20360,Approved
+,73222.0,,Unemployed,550.0,44030,Rejected
+19.0,49375.0,Master,Salaried,440.0,6058,Approved
+23.0,29662.0,Bachelor,Self-Employed,573.0,25677,Rejected
+59.0,36964.0,PhD,Unemployed,715.0,15724,Rejected
+21.0,79638.0,High School,Unemployed,338.0,33404,Rejected
+,93666.0,Bachelor,Unemployed,328.0,42946,Rejected
+35.0,105067.0,High School,Unemployed,776.0,44748,Rejected
+43.0,,PhD,Self-Employed,617.0,34856,Rejected
+61.0,89042.0,Master,Unemployed,544.0,14200,Approved
+51.0,,PhD,Unemployed,571.0,38997,Approved
+27.0,92789.0,Bachelor,Salaried,739.0,30611,Rejected
+53.0,104664.0,Master,Unemployed,538.0,46235,Rejected
+31.0,,Bachelor,Self-Employed,676.0,40057,Rejected
+48.0,81389.0,Master,Self-Employed,,6239,Approved
+32.0,29435.0,High School,Self-Employed,658.0,43138,Rejected
+,74340.0,,Self-Employed,639.0,5125,Approved
+31.0,,High School,Unemployed,688.0,28857,Rejected
+40.0,98832.0,PhD,Unemployed,302.0,20398,Rejected
+57.0,,,Self-Employed,728.0,11638,Approved
+38.0,115981.0,PhD,Self-Employed,441.0,11570,Approved
+33.0,98781.0,High School,Unemployed,675.0,8249,Rejected
+62.0,80403.0,Bachelor,Self-Employed,623.0,14110,Rejected
+35.0,49124.0,High School,Salaried,445.0,45363,Rejected
+64.0,115435.0,,Self-Employed,592.0,18605,Approved
+41.0,63919.0,PhD,Self-Employed,731.0,17115,Approved
+43.0,55247.0,PhD,Salaried,698.0,44062,Approved
+42.0,114758.0,High School,Salaried,643.0,27911,Approved
+62.0,111747.0,Bachelor,Unemployed,439.0,43525,Approved
+58.0,82752.0,Bachelor,Unemployed,486.0,37556,Approved
+46.0,76573.0,High School,Salaried,360.0,17595,Rejected
+32.0,79101.0,Bachelor,Salaried,679.0,6969,Rejected
+62.0,46646.0,High School,Unemployed,739.0,48753,Approved
+,43049.0,Bachelor,Self-Employed,618.0,22275,Rejected
+42.0,99605.0,Master,Salaried,601.0,9470,Rejected
+,118116.0,Master,Unemployed,643.0,15225,Approved
+26.0,117379.0,PhD,Self-Employed,,47324,Rejected
+41.0,,Master,Salaried,361.0,46974,Approved
+18.0,60158.0,Master,Self-Employed,525.0,47759,Approved
+61.0,85417.0,Master,Unemployed,452.0,28196,Rejected
+25.0,43289.0,High School,Salaried,609.0,45287,Approved
+41.0,29823.0,Master,Self-Employed,542.0,18669,Approved
+,80160.0,Master,Salaried,792.0,42380,Approved
+34.0,,PhD,Self-Employed,665.0,43006,Approved
+,29540.0,Master,Unemployed,629.0,20577,Approved
+52.0,36364.0,,Unemployed,406.0,27473,Approved
+52.0,24611.0,Bachelor,Salaried,525.0,33625,Approved
+50.0,47663.0,PhD,Self-Employed,517.0,20504,Approved
+22.0,71991.0,PhD,Salaried,805.0,29089,Rejected
+59.0,77679.0,PhD,Salaried,558.0,41487,Rejected
+56.0,50977.0,PhD,Self-Employed,816.0,5302,Rejected
+58.0,114704.0,PhD,Self-Employed,353.0,36463,Approved
+45.0,69115.0,PhD,Self-Employed,346.0,49912,Approved
+24.0,,High School,Unemployed,820.0,34259,Rejected
+26.0,108223.0,,Salaried,398.0,47823,Rejected
+25.0,80890.0,PhD,Salaried,319.0,42208,Rejected
+29.0,86387.0,Master,Unemployed,789.0,35659,Approved
+51.0,38071.0,Master,Self-Employed,718.0,40840,Rejected
+50.0,79275.0,High School,Unemployed,361.0,36890,Rejected
+40.0,92369.0,PhD,Unemployed,444.0,18598,Approved
+41.0,31938.0,Bachelor,Unemployed,,24508,Rejected
+,55195.0,High School,Salaried,302.0,47287,Approved
+52.0,111680.0,Bachelor,Unemployed,,18380,Approved
+61.0,24000.0,Master,Salaried,419.0,31984,Approved
+57.0,90588.0,Master,Salaried,388.0,49633,Rejected
+39.0,113610.0,High School,Salaried,,13125,Rejected
+44.0,117856.0,High School,Self-Employed,,41059,Approved
+52.0,58304.0,Bachelor,Salaried,566.0,9033,Rejected
+18.0,89449.0,PhD,Salaried,622.0,42873,Rejected
+52.0,,Bachelor,Self-Employed,,22087,Rejected
+54.0,109643.0,,Salaried,,45901,Rejected
+64.0,40764.0,,Unemployed,631.0,10704,Approved
+31.0,106027.0,High School,Unemployed,469.0,12848,Rejected
+20.0,58494.0,Bachelor,Salaried,820.0,26592,Approved
+18.0,23373.0,High School,Self-Employed,762.0,11924,Approved
+22.0,32161.0,High School,Unemployed,339.0,32208,Rejected
+43.0,117532.0,High School,Self-Employed,836.0,24614,Approved
+31.0,112658.0,PhD,Self-Employed,560.0,5488,Rejected
+,47350.0,Bachelor,Unemployed,694.0,44882,Rejected
+44.0,,Bachelor,Self-Employed,,30923,Approved
+26.0,114297.0,Bachelor,Unemployed,423.0,40941,Approved
+32.0,45351.0,High School,Self-Employed,,34165,Approved
+32.0,108668.0,Bachelor,Unemployed,627.0,6667,Approved
+43.0,35305.0,Bachelor,Salaried,550.0,31213,Rejected
+,95353.0,High School,Unemployed,475.0,9114,Rejected
+30.0,96797.0,Master,Unemployed,753.0,41321,Rejected
+49.0,85953.0,High School,Unemployed,336.0,12761,Approved
+56.0,77458.0,Bachelor,Unemployed,615.0,36116,Approved
+49.0,40358.0,High School,Self-Employed,413.0,38768,Approved
+,23267.0,,Salaried,339.0,30426,Rejected
+47.0,102745.0,High School,Unemployed,,22772,Approved
+54.0,,Bachelor,Self-Employed,523.0,43218,Rejected
+,58513.0,Master,Salaried,617.0,8712,Approved
+56.0,46092.0,PhD,Salaried,648.0,6367,Rejected
+62.0,31338.0,Bachelor,Salaried,414.0,45957,Rejected
+,20412.0,Master,Salaried,622.0,46781,Approved
+60.0,27543.0,Master,Unemployed,339.0,31200,Approved
+46.0,53496.0,PhD,Unemployed,339.0,8726,Rejected
+53.0,80692.0,High School,Self-Employed,588.0,28616,Rejected
+30.0,109084.0,High School,Self-Employed,561.0,32723,Approved
+49.0,112920.0,Bachelor,Self-Employed,515.0,42574,Approved
+24.0,64425.0,PhD,Salaried,446.0,39958,Rejected
+39.0,58756.0,High School,Salaried,635.0,14108,Approved
+45.0,38888.0,PhD,Unemployed,467.0,17178,Rejected
+19.0,,High School,Salaried,391.0,40643,Rejected
+59.0,67295.0,Master,Salaried,652.0,36324,Approved
+,103042.0,High School,Salaried,662.0,43360,Approved
+,105999.0,PhD,Self-Employed,,22824,Approved
+45.0,37955.0,Master,Self-Employed,469.0,13927,Approved
+45.0,57841.0,,Unemployed,655.0,33144,Approved
+61.0,90640.0,Master,Salaried,490.0,36010,Rejected
+61.0,85510.0,,Salaried,721.0,27443,Rejected
+37.0,54911.0,Bachelor,Unemployed,306.0,19437,Approved
+47.0,79031.0,Bachelor,Salaried,432.0,49298,Approved
+,108726.0,Bachelor,Salaried,330.0,44778,Approved
+45.0,27357.0,PhD,Self-Employed,834.0,16207,Rejected
+42.0,52479.0,Master,Unemployed,725.0,30537,Approved
+56.0,81476.0,Bachelor,Unemployed,,40757,Approved
+,64811.0,PhD,Unemployed,662.0,17040,Rejected
+18.0,56208.0,Bachelor,Unemployed,736.0,46986,Rejected
+44.0,40150.0,High School,Self-Employed,381.0,27612,Approved
+30.0,,Bachelor,Self-Employed,655.0,33441,Approved
+58.0,63286.0,Bachelor,Salaried,557.0,11471,Approved
+20.0,88450.0,Master,Salaried,823.0,40631,Rejected
+56.0,41352.0,PhD,Salaried,594.0,48461,Approved
+23.0,75069.0,Master,Salaried,,31523,Approved
+,34397.0,,Self-Employed,824.0,36348,Approved
+44.0,,Master,Unemployed,345.0,6177,Rejected
+26.0,66959.0,Master,Self-Employed,412.0,9760,Rejected
+54.0,20728.0,Master,Salaried,532.0,37779,Approved
+50.0,70517.0,Bachelor,Self-Employed,316.0,26636,Approved
+59.0,86234.0,Master,Unemployed,659.0,21353,Rejected
+61.0,59954.0,Master,Unemployed,522.0,16556,Rejected
+41.0,67280.0,PhD,Self-Employed,,32598,Rejected
+32.0,99459.0,High School,Self-Employed,664.0,16563,Rejected
+49.0,36779.0,Bachelor,Self-Employed,,48790,Rejected
+49.0,83932.0,Bachelor,Salaried,766.0,13234,Rejected
+41.0,92936.0,Bachelor,Self-Employed,713.0,30519,Rejected
+,44466.0,Master,Self-Employed,754.0,31966,Rejected
+29.0,56939.0,Master,Self-Employed,532.0,21173,Rejected
+56.0,89896.0,Master,Unemployed,523.0,31987,Approved
+19.0,55270.0,PhD,Unemployed,711.0,18178,Approved
+20.0,79163.0,High School,Salaried,634.0,44338,Approved
+54.0,102637.0,Master,Salaried,521.0,29596,Rejected
+,71934.0,High School,Unemployed,336.0,38174,Approved
+19.0,84895.0,PhD,Unemployed,577.0,46974,Rejected
+19.0,52307.0,,Unemployed,495.0,9431,Rejected
+45.0,74098.0,Master,Self-Employed,,32764,Approved
+40.0,80921.0,High School,Self-Employed,541.0,26627,Rejected
+54.0,25486.0,High School,Unemployed,623.0,44310,Approved
+49.0,28335.0,Master,Self-Employed,491.0,13906,Approved
+50.0,106900.0,Bachelor,Self-Employed,316.0,41914,Approved
+18.0,109112.0,,Salaried,823.0,49814,Rejected
+36.0,117203.0,Bachelor,Unemployed,700.0,18076,Approved
+19.0,31130.0,PhD,Unemployed,321.0,42650,Rejected
+61.0,107508.0,High School,Self-Employed,773.0,11012,Approved
+43.0,80566.0,High School,Unemployed,419.0,12151,Approved
+49.0,86703.0,High School,Salaried,509.0,33211,Approved
+23.0,47192.0,PhD,Salaried,605.0,32117,Rejected
+49.0,21062.0,High School,Salaried,,41378,Rejected
+21.0,,PhD,Unemployed,584.0,47652,Rejected
+28.0,109780.0,Bachelor,Unemployed,526.0,11894,Approved
+34.0,,Master,Unemployed,680.0,18467,Approved
+55.0,41689.0,High School,Unemployed,759.0,36010,Rejected
+41.0,31174.0,High School,Unemployed,306.0,47641,Rejected
+22.0,108461.0,Bachelor,Salaried,328.0,17289,Rejected
+51.0,29348.0,Master,Self-Employed,332.0,49976,Rejected
+23.0,43714.0,PhD,Salaried,378.0,48596,Rejected
+39.0,,Master,Unemployed,758.0,28171,Rejected
+28.0,94460.0,Bachelor,Salaried,837.0,39905,Approved
+33.0,109930.0,Bachelor,Unemployed,781.0,25829,Rejected
+50.0,26801.0,Master,Unemployed,729.0,39054,Approved
+26.0,92267.0,PhD,Salaried,584.0,49139,Approved
+23.0,68136.0,,Unemployed,815.0,34734,Rejected
+33.0,43625.0,High School,Self-Employed,398.0,12052,Rejected
+46.0,102873.0,PhD,Unemployed,696.0,8654,Approved
+20.0,92592.0,Master,Self-Employed,788.0,28486,Rejected
+37.0,97052.0,Bachelor,Self-Employed,,23743,Rejected
+53.0,64261.0,High School,Unemployed,,29489,Approved
+36.0,,High School,Salaried,456.0,13636,Approved
+,41677.0,Bachelor,Self-Employed,374.0,11441,Approved
+20.0,,PhD,Salaried,429.0,29611,Rejected
+36.0,70343.0,Bachelor,Self-Employed,383.0,47435,Approved
+37.0,59081.0,PhD,Unemployed,321.0,17149,Rejected
+49.0,82856.0,Bachelor,Unemployed,758.0,39566,Approved
+24.0,113105.0,Master,Self-Employed,838.0,47368,Approved
+58.0,108858.0,PhD,Unemployed,681.0,26675,Approved
+50.0,39065.0,Master,Self-Employed,739.0,10495,Rejected
+57.0,103460.0,High School,Unemployed,320.0,47668,Rejected
+56.0,108092.0,Bachelor,Salaried,602.0,18673,Approved
+35.0,74693.0,High School,Unemployed,383.0,16130,Approved
+,46962.0,High School,Salaried,752.0,27668,Approved
+18.0,48295.0,High School,Unemployed,686.0,20222,Rejected
+28.0,33807.0,High School,Salaried,806.0,28669,Approved
+45.0,62348.0,Bachelor,Unemployed,556.0,39068,Rejected
+42.0,46432.0,High School,Salaried,826.0,28253,Approved
+,103285.0,Bachelor,Self-Employed,461.0,14435,Approved
+48.0,111792.0,Bachelor,Self-Employed,462.0,33552,Approved
+47.0,77854.0,Master,Salaried,823.0,42384,Approved
+59.0,,PhD,Unemployed,570.0,21393,Approved
+52.0,57080.0,PhD,Salaried,791.0,15617,Approved
+24.0,,Bachelor,Unemployed,507.0,43520,Rejected
+33.0,111267.0,Master,Self-Employed,838.0,14852,Approved
+43.0,55909.0,Bachelor,Unemployed,359.0,36401,Rejected
+19.0,109339.0,Bachelor,Self-Employed,729.0,11295,Approved
+18.0,39870.0,Bachelor,Unemployed,608.0,40993,Approved
+29.0,54578.0,Master,Unemployed,819.0,39084,Rejected
+22.0,92124.0,PhD,Unemployed,326.0,44575,Approved
+54.0,46790.0,Master,Salaried,498.0,41451,Rejected
+,45289.0,High School,Salaried,686.0,12227,Rejected
+,75129.0,Master,Self-Employed,648.0,36910,Approved
+58.0,113714.0,,Self-Employed,835.0,41041,Rejected
+52.0,114246.0,Master,Salaried,677.0,28384,Rejected
+36.0,,Master,Self-Employed,826.0,5145,Approved
+33.0,64482.0,PhD,Salaried,,42778,Rejected
+20.0,106188.0,,Unemployed,505.0,21035,Approved
+37.0,24748.0,PhD,Self-Employed,754.0,8040,Approved
+41.0,106769.0,PhD,Self-Employed,572.0,47422,Approved
+50.0,29435.0,Master,Salaried,535.0,31160,Approved
+41.0,23709.0,Bachelor,Self-Employed,820.0,22633,Rejected
+28.0,50355.0,Bachelor,Self-Employed,800.0,34344,Approved
+25.0,75771.0,,Unemployed,416.0,22014,Approved
+53.0,77799.0,,Self-Employed,685.0,19996,Rejected
+55.0,33116.0,Master,Unemployed,643.0,46621,Approved
+57.0,,PhD,Salaried,694.0,16695,Approved
+,62344.0,Master,Self-Employed,363.0,7852,Rejected
+52.0,62918.0,Bachelor,Unemployed,371.0,21014,Rejected
+42.0,72224.0,Bachelor,Salaried,573.0,32042,Rejected
+52.0,59298.0,High School,Self-Employed,619.0,38755,Rejected
+42.0,100219.0,,Salaried,,45390,Rejected
+46.0,81629.0,,Self-Employed,665.0,28711,Rejected
+35.0,86040.0,Bachelor,Salaried,794.0,31122,Rejected
+63.0,119518.0,Master,Salaried,465.0,14160,Approved
+35.0,119835.0,Bachelor,Unemployed,843.0,32213,Rejected
+19.0,,High School,Salaried,310.0,44420,Rejected
+52.0,43960.0,Bachelor,Self-Employed,600.0,12421,Rejected
+33.0,53591.0,Master,Self-Employed,401.0,26400,Approved
+,,Master,Unemployed,724.0,38537,Approved
+53.0,87641.0,PhD,Self-Employed,691.0,22727,Rejected
+,56395.0,Bachelor,Self-Employed,513.0,9358,Rejected
+21.0,42700.0,Master,Self-Employed,387.0,33482,Rejected
+50.0,54620.0,,Salaried,700.0,37117,Approved
+31.0,40559.0,,Salaried,345.0,28164,Approved
+38.0,,High School,Self-Employed,762.0,36910,Rejected
+37.0,113396.0,Bachelor,Unemployed,609.0,37496,Approved
+25.0,81642.0,Bachelor,Salaried,385.0,49311,Rejected
+24.0,96539.0,Bachelor,Unemployed,391.0,34371,Approved
+20.0,41732.0,PhD,Self-Employed,541.0,43467,Approved
+34.0,111362.0,Master,Self-Employed,301.0,22625,Rejected
+50.0,,PhD,Salaried,524.0,38893,Rejected
+29.0,33843.0,,Self-Employed,415.0,15793,Rejected
+39.0,91726.0,PhD,Salaried,402.0,36007,Rejected
+39.0,37640.0,High School,Self-Employed,493.0,30766,Approved
+63.0,72528.0,PhD,Self-Employed,465.0,44532,Approved
+47.0,58413.0,,Salaried,389.0,17323,Approved
+55.0,72638.0,High School,Salaried,421.0,12843,Rejected
+55.0,72736.0,,Salaried,442.0,19210,Approved
+62.0,88866.0,Bachelor,Self-Employed,405.0,21456,Rejected
+25.0,39087.0,PhD,Self-Employed,727.0,36367,Approved
+44.0,61430.0,Bachelor,Unemployed,604.0,15106,Rejected
+44.0,44504.0,High School,Salaried,616.0,42957,Rejected
+51.0,27114.0,Bachelor,Self-Employed,308.0,7472,Approved
+38.0,98859.0,Master,Self-Employed,372.0,11704,Rejected
+47.0,119657.0,Master,Salaried,658.0,8713,Rejected
+,30975.0,PhD,Unemployed,522.0,10051,Approved
+45.0,31023.0,High School,Salaried,715.0,15756,Rejected
+64.0,41447.0,Master,Unemployed,669.0,7475,Rejected
+50.0,,,Self-Employed,563.0,41378,Rejected
+22.0,43959.0,High School,Unemployed,617.0,9255,Approved
+36.0,86203.0,Bachelor,Self-Employed,383.0,19484,Approved
+21.0,49703.0,Bachelor,Salaried,617.0,39503,Rejected
+52.0,29337.0,PhD,Salaried,410.0,13258,Approved
+34.0,66427.0,Bachelor,Salaried,550.0,45747,Rejected
+61.0,81529.0,High School,Unemployed,682.0,40196,Rejected
+45.0,104665.0,Master,Self-Employed,306.0,45194,Rejected
+47.0,51921.0,Bachelor,Salaried,,13533,Rejected
+,,,Salaried,383.0,37581,Rejected
+63.0,47355.0,Bachelor,Self-Employed,507.0,10249,Approved
+23.0,24835.0,,Salaried,689.0,24201,Rejected
+52.0,40159.0,PhD,Self-Employed,613.0,14686,Approved
+,,Bachelor,Self-Employed,321.0,37007,Approved
+54.0,58088.0,PhD,Self-Employed,709.0,5661,Rejected
+41.0,98752.0,High School,Self-Employed,814.0,49843,Rejected
+46.0,75284.0,Master,Self-Employed,,35137,Approved
+,77043.0,High School,Unemployed,313.0,47828,Approved
+48.0,55547.0,High School,Salaried,311.0,15526,Approved
+52.0,117007.0,High School,Unemployed,386.0,8374,Rejected
+50.0,102844.0,,Salaried,,30592,Approved
+,47532.0,Master,Unemployed,836.0,33982,Rejected
+49.0,54349.0,Master,Self-Employed,600.0,5207,Rejected
+40.0,65445.0,PhD,Salaried,542.0,40433,Rejected
+50.0,25713.0,Bachelor,Salaried,421.0,28197,Approved
+20.0,76178.0,Master,Unemployed,446.0,38400,Rejected
+35.0,69407.0,Master,Unemployed,655.0,8083,Rejected
+42.0,90340.0,Bachelor,Salaried,608.0,34328,Rejected
+59.0,70990.0,Master,Unemployed,587.0,47891,Rejected
+48.0,95672.0,High School,Unemployed,606.0,25103,Rejected
+20.0,,High School,Unemployed,848.0,44891,Approved
+57.0,104791.0,Bachelor,Self-Employed,651.0,15754,Rejected
+63.0,78141.0,PhD,Self-Employed,611.0,39447,Rejected
+,43793.0,PhD,Unemployed,358.0,20901,Approved
+49.0,76570.0,Bachelor,Unemployed,334.0,38004,Rejected
+64.0,115084.0,Bachelor,Self-Employed,744.0,12446,Approved
+39.0,57892.0,High School,Self-Employed,392.0,42211,Rejected
+40.0,21015.0,PhD,Salaried,506.0,34301,Approved
+19.0,81813.0,Master,Salaried,652.0,31116,Approved
+44.0,,,Self-Employed,631.0,46323,Rejected
+59.0,28415.0,Bachelor,Unemployed,458.0,23752,Rejected
+19.0,82292.0,PhD,Unemployed,,37376,Rejected
+43.0,43833.0,Master,Unemployed,703.0,21669,Approved
+34.0,24158.0,Master,Unemployed,815.0,37916,Approved
+57.0,82680.0,High School,Salaried,663.0,18395,Approved
+50.0,40309.0,,Self-Employed,,25421,Rejected
+26.0,26970.0,PhD,Unemployed,831.0,31342,Approved
+60.0,92474.0,Bachelor,Salaried,,9895,Approved
+56.0,106704.0,PhD,Unemployed,719.0,16023,Rejected
+46.0,66540.0,PhD,Self-Employed,549.0,15699,Approved
+59.0,40384.0,High School,Salaried,,14715,Approved
+,38017.0,PhD,Self-Employed,811.0,24169,Rejected
+52.0,95880.0,Master,Self-Employed,634.0,21163,Approved
+42.0,28702.0,High School,Salaried,717.0,10782,Rejected
+41.0,20384.0,High School,Salaried,,27641,Rejected
+30.0,20404.0,Bachelor,Salaried,670.0,23792,Rejected
+24.0,60943.0,,Salaried,485.0,40585,Rejected
+53.0,67926.0,Bachelor,Salaried,545.0,35682,Rejected
+62.0,49189.0,Master,Salaried,567.0,23880,Approved
+37.0,,,Salaried,536.0,43067,Approved
+18.0,38384.0,High School,Unemployed,,47685,Rejected
+25.0,80100.0,High School,Self-Employed,320.0,23073,Rejected
+63.0,118142.0,Master,Salaried,819.0,41035,Approved
+33.0,29860.0,Master,Unemployed,399.0,42174,Rejected
+31.0,100642.0,Bachelor,Unemployed,777.0,29837,Rejected
+29.0,70612.0,Bachelor,Unemployed,597.0,22826,Rejected
+40.0,43574.0,Bachelor,Self-Employed,825.0,29981,Approved
+,,PhD,Salaried,633.0,15382,Approved
+45.0,89172.0,High School,Unemployed,301.0,9437,Rejected
+51.0,30916.0,High School,Self-Employed,674.0,10435,Rejected
+19.0,24809.0,Bachelor,Self-Employed,,29819,Approved
+,,High School,Self-Employed,617.0,41875,Approved
+40.0,73330.0,Bachelor,Unemployed,,36982,Rejected
